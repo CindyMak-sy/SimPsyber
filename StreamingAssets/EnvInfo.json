@@ -1,0 +1,13 @@
+{"Env":[
+        {
+            "name":"QA",
+            "UpdateEffect":["Level 1: Increase the percentage of automated test to 70%","Level 2: Increase the percentage of automated test to 85%","Level 3: Improve test environment (Decrease the deployment failure probability)"],
+            "RequiredMoney":["30000","40000","50000"]
+        },
+        {
+            "name":"Deployment",
+            "UpdateEffect":["Level 1: Automate the deployment environment (Decrease the deployment time consumed)"],
+            "RequiredMoney":["50000"]                
+        }
+    ]
+}
